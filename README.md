@@ -2,6 +2,8 @@
 
 Aplicação simples desenvolvida em **Streamlit** que realiza uma requisição à **API pública do GitHub** para buscar e exibir informações de um usuário a partir do *username* digitado.
 
+DEPLOY: https://app-api-users-git-h-ub.streamlit.app/
+
 ---
 
 ## 📌 Funcionalidades
